@@ -1,0 +1,69 @@
+.header {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    background-color: grey;
+}
+.main {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+    height: 50vh;
+    width: 50vw;
+    background-color: beige;
+}
+
+.zero {
+    display: flex;
+    width: 50vw;
+}
+.one {border: 1px solid black;
+    display: flex;
+    width: 20vw;
+    height: 20vh;
+    background-color: darksalmon;
+}
+.two{
+    border: 1px solid black;
+    display: flex;
+    width: 20vw;
+    height: 20vh;
+    background-color: darksalmon;
+}
+.three{
+    border: 1px solid black;
+    display: flex;
+    width: 50vw;
+    height: 20vh;
+    background-color: darksalmon;
+}
+.aside {
+display: flex;}
+.dop {
+    border: 1px solid black;
+    padding: 10px;
+    height: 50vh;
+    width: 20vw;
+    background-color: aquamarine;
+}
+.footer{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: grey;
+    height: 10vh;
+}
+
+.dopfooter {
+    background-color: aliceblue;
+    height: 5vh;
+    width: 10vw;
+    text-align: center;
+}
